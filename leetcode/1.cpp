@@ -49,4 +49,8 @@ if our variable "it" equals the "last" value, that means we didn't find the elem
 
 we can use insert({key, value}) to add to the hashmap
 
+Time Complexity: only one pass thru the array, and we're adding each value to hashmap (constant time operation) = O(n)
+
+Space Complexity: hashmap could potentially add every value of the array =  O(n)
+
 */
