@@ -1,0 +1,22 @@
+<+-+-+-+-+-+-+-+-+-+-+-+- Learning Vim -+-+-+-+-+-+-+-+-+-+-+-+> 
+
+Normal Mode: Esc
+
+             (K)
+Movement: (H)   (L)
+             (J)
+
+Select All: ggVG
+
+- gg: go to start of the file
+
+- shift + v (V): visual line mode (text selected by line)
+    - v: visual mode
+
+- shift + g (G): go from start to end of file
+
+Copy: y ("yank")
+
+Cut: d ("delete")
+
+Paste: p --> paste after cursor OR shift + p (P) --> paste before cursor
