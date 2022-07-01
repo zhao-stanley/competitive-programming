@@ -1,4 +1,7 @@
 #include <iostream>
+//#include<bits/stdc++.h> --> set and a bunch of other stuff idk
+//#include <string> --> string stuff
+//#include <math.h> --> math
 using namespace std;
 
 
